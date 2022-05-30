@@ -1,0 +1,1 @@
+const triple = require('./programasJS/functionSuma');
