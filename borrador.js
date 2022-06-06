@@ -1,54 +1,7 @@
-/* let dia1 = "lun";
-let dia2 = "mar";
-
-const semana = ["dom","lun", "mar", "mie", "jue","vie","sab"];
-const meses = ['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'];
 
 
-//console.log(meses[0]);
-
-//
-console.log(semana.length); // 7 -> la longitud del array!!
-console.log(semana[7]); // undefined!!!!!
 
 
-console.log(semana[semana.length - 1]); //siempre me muestra el último
-
-const arrayVacio = [];
-
-console.log(arrayVacio.length); // 0 */
-
-/* let comision = ["a","b"]
-
-comision += "c"
-
-console.log(comision); */
-
-/* const process = require('process');
-const numeroA = +process.argv[2];
-const numeroB = +process.argv[3];
-
-function sumar(a,b) {
-    return a + b
-}
-
-console.log(sumar(numeroA, numeroB)); */
-
-/* const articulos = ['lapiceras','gomas','plasticola','reglas','escuadras','témperas','pinceles','lápices','colores','cartucheras'];
-
-const papelera = [];
-
-articulos.push('carpetas');
-
-console.log(articulos);
-
-papelera.push(articulos.pop());
-
-articulos.push(papelera.pop());
-
-
-console.log(articulos);
-console.log(papelera); */
 
 /* const articulos = ['lapiceras','gomas','plasticola','reglas','escuadras','témperas','pinceles','lápices','colores','cartucheras'];
 

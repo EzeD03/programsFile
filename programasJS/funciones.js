@@ -15,3 +15,17 @@ const repetirSaludo2 = function(cantidad,mensaje) {
 }
 
 console.log(repetirSaludo2(5,"Chauuu"));
+
+/* ------------------------------------------ */
+/* ------------------------------------------ */
+/* ------------------------------------------ */
+
+const process = require('process');
+const numeroA = +process.argv[2];
+const numeroB = +process.argv[3];
+
+function sumar(a,b) {
+    return a + b
+}
+
+console.log(sumar(numeroA, numeroB));
