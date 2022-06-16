@@ -1,0 +1,16 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "Mi primera aplicacion con NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Ezequiel",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
